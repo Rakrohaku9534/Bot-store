@@ -17,10 +17,10 @@ global.audionya = fs.readFileSync("./all/sound.mp3")
 global.tekspushkon = ""
 global.tekspushkonv2 = ""
 global.packname = ""
-global.author = "Sticker By Kyuu"
+global.author = "Sticker By Fahrul"
 global.jumlah = "5"
-global.wagc = "https://chat.whatsapp.com/GxpCNxNd7w99fjSzHJPwGL"
-global.keyopenai = "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"
+global.wagc = "https://chat.whatsapp.com/FSbrP6LWWm4A8i8uGdyDTs"
+global.keyopenai = "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"
 global.wtf = "kikyy"
 
 let file = require.resolve(__filename)
