@@ -1,6 +1,6 @@
 require("./module")
 
-global.owner = "6281351692548"
+global.owner = "6285786539008"
 global.namabot = "ShinzuuMD"
 global.namaCreator = "Angel Bot 〆 THE PART OF TENSE"
 global.autoJoin = false
@@ -21,7 +21,7 @@ global.author = "Sticker By Fahrul"
 global.jumlah = "5"
 global.wagc = "https://chat.whatsapp.com/FSbrP6LWWm4A8i8uGdyDTs"
 global.keyopenai = "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"
-global.wtf = "kikyy"
+global.wtf = "fahrul"
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
