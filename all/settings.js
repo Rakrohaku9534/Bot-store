@@ -20,7 +20,7 @@ global.packname = ""
 global.author = "Sticker By Fahrul"
 global.jumlah = "5"
 global.wagc = "https://chat.whatsapp.com/FSbrP6LWWm4A8i8uGdyDTs"
-global.keyopenai = "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"
+global.keyopenai = "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"
 global.wtf = "fahrul"
 
 let file = require.resolve(__filename)
